@@ -6,7 +6,7 @@ NAMA : ARDY YUNIARTO
 
 NIM : 181011402254
 
-KELAS 06TPLE023
+KELAS : 06TPLE023
 
 Teknik klasifikasi ini merupakan teknik yang memiliki akurasi cukup tinggi, yaitu random forest classification. Pembahasan mengenai teknik ini mirip seperti random forest regression, hanya saja tujuannya bukan memprediksi sebuah nilai tetapi mengklasifikasikan data.
 
